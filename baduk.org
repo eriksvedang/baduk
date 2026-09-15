@@ -1,0 +1,95 @@
+* Links
+** Squishy Go https://puyogo.app/en/
+** Go Game Online with KataNet AI https://pazoff.itch.io/go
+** Improving at Go (free E-book) https://improve.tenuki.net/
+** Generate PDF from selected problems https://github.com/travisgk/tsumego-pdf
+** Cho Chikun's Encyclopedia of Life and Death https://tsumego.tasuki.org/
+** Tenjin app (for organizing Go tournaments) https://app.baduk.club/
+** More named shapes https://www.101weiqi.com/book/61002/
+** The Thirty-six Stratagems Applied to Go https://senseis.xmp.net/?36StratagemsAppliedToGo
+** Go news aggregator https://gome.at/news
+** European Yunguseng Dojang ("insei") https://eyd.yunguseng.com/
+** Svenska Goförbundet https://sgf.goforbundet.se/
+** Nordic Go Dojo https://www.nordicgodojo.eu/
+** Gokibitz, move-by-move conversation about go games https://gokibitz.com/
+** 361 points (articles and advice) http://www.361points.com/study/
+** Steve Fawthrop's lectures on counting https://senseis.xmp.net/?SteveFawthrop%2FCounting
+** Go Wizardry Blog https://gowizardry.com
+** Mastering the Game of Go without human knowledge https://www.nature.com/articles/nature24270.epdf
+** Internet Go School https://internetgoschool.com/index.vhtml
+** Webbaserad KGS-klient https://shinkgs.com/
+** Xinwen’s Lecture https://xinwengolife.wordpress.com/elementary-lecture/
+** Gooften http://gooften.net
+** http://nateeagle.com
+** http://eidogo.com
+** http://fuseki.info
+** http://www.wbaduk.com
+** Go is superior to Chess (Rüger, 1920) https://www.reddit.com/r/baduk/comments/yoslqq/go_is_superior_to_chess_r%C3%BCger_1920/
+** 81 Little Lions: An Introduction to the 9x9 Board for Advanced Beginners https://forums.online-go.com/t/81-little-lions-an-introduction-to-the-9x9-board-for-advanced-beginners-by-immanuel-devillers-revised-edition-2019/19848
+** Baduk Club (find players / clubs around the world) https://baduk.club/welcome
+** Japansk affär för Go-utrustning (och Shogi) https://kurokigoishiten.com/en
+** Hebsacker Verlags affär https://www.go-spiele.de/en/
+** Book online Go lessons with teachers from all around the world. https://polgote.com/
+** Guide to Become Strong https://senseis.xmp.net/?BenjaminTeuber%2FGuideToBecomeStrong
+** Predict the pro move https://neuralnetgoproblems.com/
+** The Logical Rules https://tromp.github.io/go.html
+** Latex code for Go books https://github.com/psygo/tecnicas_de_go
+* Books
+** https://senseis.xmp.net/?WholeBoardThinkingInJoseki
+* Shops
+** https://www.ebay.com/str/yellowmountainimports
+** https://classical.games/
+** https://www.aobo-shop.es/gb/
+** https://www.go-spiele.de/en/
+** https://www.e-go.pl/
+** https://www.schaakengo.nl/en/go/
+** https://ponnuki.eu/go-game/
+** Cheap go stones
+*** https://www.polishchess.com/go-stones-p-1750.html
+*** https://www.game-go.shop/go-stones/plastic-go-stones-8-5-mm-180-180/
+*** https://www.go-spiele.de/en/Plastic-stones-flat.html
+** Board material
+*** https://www.beijerbygg.se/privat/sv/produkter/byggmaterial-traprodukter/byggmaterial/byggskivor/mdf/mdf-board-6x1220x2440-2-98m2-900213689
+*** https://www.beijerbygg.se/privat/sv/produkter/byggmaterial-traprodukter/byggmaterial/byggskivor/plywood/furuplywood-ii-iv
+* Terms
+** General
+*** Sente & gote
+*** Tesuji
+*** Joseki
+*** Miai
+*** Honte (proper move)
+*** Aji
+*** Kikashi (preparing by using a forcing move)
+*** Ko
+*** Sabaki (flexible play, "fancy footwork")
+*** Oba (big point)
+*** Kyuba (urgent move)
+*** Zokusuji (vulgar move)
+** Go-specific
+*** Atari
+*** Dame (empty/neutral point)
+*** Semeai (capturing race)
+*** Haengma ("the movement of the stones")
+*** Korigatachi (overconcentrated)
+*** Amarigatachi (overstreched)
+** Shapes
+*** Cut
+*** Hane
+*** Hasami (Pincer)
+*** Ladder
+*** Nobi (solid extension, no jump)
+*** N-point extension
+*** Keima (Knight's Move)
+*** Ogeima (Large Knight's Move)
+*** Tsuke (attachment)
+*** Kosumi (diagonal attachment)
+*** Kaketsugi (Dragon's Mouth)
+*** Ponnuki
+*** Bamboo Joint
+*** Table Shape
+*** Mouth Shape
+*** Honeycomb Shape
+*** Empty Triangle
+*** Hat Shape
+*** Dumpling Shape
+*** Sake Bottle
