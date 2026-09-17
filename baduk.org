@@ -1,5 +1,6 @@
 * Links
 ** Squishy Go https://puyogo.app/en/
+** Katago networks etc https://katagotraining.org/
 ** Go Game Online with KataNet AI https://pazoff.itch.io/go
 ** Improving at Go (free E-book) https://improve.tenuki.net/
 ** Generate PDF from selected problems https://github.com/travisgk/tsumego-pdf
